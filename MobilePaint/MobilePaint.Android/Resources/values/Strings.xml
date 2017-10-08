@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">MobilePaint.Android</string>
+  <string name="openDrawer">Drawer Open</string>
+  <string name="closeDrawer">Drawer Closed</string>
+  
+  <string name="tabs_prompt">Choose an operation</string>
+  <string-array name="tabs_array">
+    <item>New Tab</item>
+    <item>Close Tab</item>
+    <item>Rename Tab</item>
+  </string-array>
+</resources>
