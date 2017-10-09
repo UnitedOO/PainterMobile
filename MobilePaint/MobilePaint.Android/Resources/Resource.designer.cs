@@ -1976,31 +1976,37 @@ namespace MobilePaint.Droid
 			public const int ic_action_content_save = 2130837582;
 			
 			// aapt resource value: 0x7f02004f
-			public const int ic_image = 2130837583;
+			public const int ic_action_help = 2130837583;
 			
 			// aapt resource value: 0x7f020050
-			public const int ic_menu_copy_holo_dark = 2130837584;
+			public const int ic_image = 2130837584;
 			
 			// aapt resource value: 0x7f020051
-			public const int ic_menu_cut_holo_dark = 2130837585;
+			public const int ic_menu_copy_holo_dark = 2130837585;
 			
 			// aapt resource value: 0x7f020052
-			public const int ic_menu_paste_holo_dark = 2130837586;
+			public const int ic_menu_cut_holo_dark = 2130837586;
 			
 			// aapt resource value: 0x7f020053
-			public const int ic_menu_search_holo_dark = 2130837587;
+			public const int ic_menu_paste_holo_dark = 2130837587;
 			
 			// aapt resource value: 0x7f020054
-			public const int ic_newtab = 2130837588;
+			public const int ic_menu_search_holo_dark = 2130837588;
 			
 			// aapt resource value: 0x7f020055
-			public const int ic_text = 2130837589;
+			public const int ic_newtab = 2130837589;
 			
 			// aapt resource value: 0x7f020056
-			public const int Icon = 2130837590;
+			public const int ic_text = 2130837590;
 			
 			// aapt resource value: 0x7f020057
-			public const int notification_template_icon_bg = 2130837591;
+			public const int Icon = 2130837591;
+			
+			// aapt resource value: 0x7f020058
+			public const int if_menu2_309052 = 2130837592;
+			
+			// aapt resource value: 0x7f020059
+			public const int notification_template_icon_bg = 2130837593;
 			
 			static Drawable()
 			{
