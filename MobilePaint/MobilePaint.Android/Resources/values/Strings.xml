@@ -11,4 +11,26 @@
     <item>Close Tab</item>
     <item>Rename Tab</item>
   </string-array>
+
+  <string name="color_prompt">Choose a color</string>
+  <string-array name="color_array">
+    <item>Red</item>
+    <item>Blue</item>
+    <item>Green</item>
+  </string-array>
+
+  <string name="width_prompt">Choose a width</string>
+  <string-array name="width_array">
+    <item>1</item>
+    <item>4</item>
+    <item>7</item>
+  </string-array>
+
+  <string name="type_prompt">Choose a type</string>
+  <string-array name="type_array">
+    <item>Curve</item>
+    <item>Line</item>
+    <item>Rect</item>
+    <item>Ellipse</item>
+  </string-array>
 </resources>

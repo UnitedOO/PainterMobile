@@ -16,6 +16,8 @@
     android:icon="@drawable/ic_image"
     android:title="FigureImage"
     myapp:showAsAction="always"/>
+
+  
 </menu>
 
 
